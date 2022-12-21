@@ -26,6 +26,7 @@ by [Ian Clarke](https://blog.locut.us/about)
 ## What is a task?
 
 A task is a **completable** piece of work, examples include:
+
 * Fixing a bug
 * Implementing a feature
 * Investigating and proposing a solution to a larger problem
