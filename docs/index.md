@@ -1,10 +1,9 @@
 ---
 marp: true
-theme: gaia
 class: invert
 ---
 
-# Dynamic Planning
+# PriorityFlow
 
 ## A simple project management methodology
 
