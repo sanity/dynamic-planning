@@ -55,13 +55,7 @@ To estimate value, stakeholders (such as sales, marketing, and product) can be g
 
 ### Cost
 
-Use the "planning poker" technique to quickly estimate task size, using options such as:
-
-- ½ day
-- 1 day
-- 2 days
-- 1 week
-- 2 weeks
+Use the "planning poker" technique to quickly estimate task size, ask people to choose between coarse options like 0.5, 1, 2, 5, ... 30 person-days.
 
 Tasks are then prioritized based on value divided by cost, so the task with the highest value per unit of cost is the highest priority.
 
